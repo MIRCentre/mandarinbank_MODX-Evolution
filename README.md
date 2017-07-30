@@ -32,5 +32,5 @@ return $output;
 13. В системе MandarinPay указываем
 - callbackURL **protocol://domain:port/assets/snippets/mandarin/callback.php**
 
-13.1 Снова находим страницу `Спасибо!`. Допустим, её id - `16`, тогда returnURL будет выглядеть так:
+13.1. Снова находим страницу `Спасибо!`. Допустим, её id - `16`, тогда returnURL будет выглядеть так:
 - returnURL **protocol://domain:port/index.php?id=16**
